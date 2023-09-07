@@ -1,0 +1,14 @@
+C:\Users\HP ELITEBOOK 840 G3\Documents\MY PERSONAL DEVOTION\Csharp\first_task\bin\Debug\net7.0\first_task.exe
+C:\Users\HP ELITEBOOK 840 G3\Documents\MY PERSONAL DEVOTION\Csharp\first_task\bin\Debug\net7.0\first_task.deps.json
+C:\Users\HP ELITEBOOK 840 G3\Documents\MY PERSONAL DEVOTION\Csharp\first_task\bin\Debug\net7.0\first_task.runtimeconfig.json
+C:\Users\HP ELITEBOOK 840 G3\Documents\MY PERSONAL DEVOTION\Csharp\first_task\bin\Debug\net7.0\first_task.dll
+C:\Users\HP ELITEBOOK 840 G3\Documents\MY PERSONAL DEVOTION\Csharp\first_task\bin\Debug\net7.0\first_task.pdb
+C:\Users\HP ELITEBOOK 840 G3\Documents\MY PERSONAL DEVOTION\Csharp\first_task\obj\Debug\net7.0\first_task.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP ELITEBOOK 840 G3\Documents\MY PERSONAL DEVOTION\Csharp\first_task\obj\Debug\net7.0\first_task.AssemblyInfoInputs.cache
+C:\Users\HP ELITEBOOK 840 G3\Documents\MY PERSONAL DEVOTION\Csharp\first_task\obj\Debug\net7.0\first_task.AssemblyInfo.cs
+C:\Users\HP ELITEBOOK 840 G3\Documents\MY PERSONAL DEVOTION\Csharp\first_task\obj\Debug\net7.0\first_task.csproj.CoreCompileInputs.cache
+C:\Users\HP ELITEBOOK 840 G3\Documents\MY PERSONAL DEVOTION\Csharp\first_task\obj\Debug\net7.0\first_task.dll
+C:\Users\HP ELITEBOOK 840 G3\Documents\MY PERSONAL DEVOTION\Csharp\first_task\obj\Debug\net7.0\refint\first_task.dll
+C:\Users\HP ELITEBOOK 840 G3\Documents\MY PERSONAL DEVOTION\Csharp\first_task\obj\Debug\net7.0\first_task.pdb
+C:\Users\HP ELITEBOOK 840 G3\Documents\MY PERSONAL DEVOTION\Csharp\first_task\obj\Debug\net7.0\first_task.genruntimeconfig.cache
+C:\Users\HP ELITEBOOK 840 G3\Documents\MY PERSONAL DEVOTION\Csharp\first_task\obj\Debug\net7.0\ref\first_task.dll
