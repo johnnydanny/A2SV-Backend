@@ -1,0 +1,14 @@
+C:\Users\HP ELITEBOOK 840 G3\Documents\MY PERSONAL DEVOTION\Csharp\task 6\bin\Debug\net7.0\task 6.exe
+C:\Users\HP ELITEBOOK 840 G3\Documents\MY PERSONAL DEVOTION\Csharp\task 6\bin\Debug\net7.0\task 6.deps.json
+C:\Users\HP ELITEBOOK 840 G3\Documents\MY PERSONAL DEVOTION\Csharp\task 6\bin\Debug\net7.0\task 6.runtimeconfig.json
+C:\Users\HP ELITEBOOK 840 G3\Documents\MY PERSONAL DEVOTION\Csharp\task 6\bin\Debug\net7.0\task 6.dll
+C:\Users\HP ELITEBOOK 840 G3\Documents\MY PERSONAL DEVOTION\Csharp\task 6\bin\Debug\net7.0\task 6.pdb
+C:\Users\HP ELITEBOOK 840 G3\Documents\MY PERSONAL DEVOTION\Csharp\task 6\obj\Debug\net7.0\task 6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP ELITEBOOK 840 G3\Documents\MY PERSONAL DEVOTION\Csharp\task 6\obj\Debug\net7.0\task 6.AssemblyInfoInputs.cache
+C:\Users\HP ELITEBOOK 840 G3\Documents\MY PERSONAL DEVOTION\Csharp\task 6\obj\Debug\net7.0\task 6.AssemblyInfo.cs
+C:\Users\HP ELITEBOOK 840 G3\Documents\MY PERSONAL DEVOTION\Csharp\task 6\obj\Debug\net7.0\task 6.csproj.CoreCompileInputs.cache
+C:\Users\HP ELITEBOOK 840 G3\Documents\MY PERSONAL DEVOTION\Csharp\task 6\obj\Debug\net7.0\task 6.dll
+C:\Users\HP ELITEBOOK 840 G3\Documents\MY PERSONAL DEVOTION\Csharp\task 6\obj\Debug\net7.0\refint\task 6.dll
+C:\Users\HP ELITEBOOK 840 G3\Documents\MY PERSONAL DEVOTION\Csharp\task 6\obj\Debug\net7.0\task 6.pdb
+C:\Users\HP ELITEBOOK 840 G3\Documents\MY PERSONAL DEVOTION\Csharp\task 6\obj\Debug\net7.0\task 6.genruntimeconfig.cache
+C:\Users\HP ELITEBOOK 840 G3\Documents\MY PERSONAL DEVOTION\Csharp\task 6\obj\Debug\net7.0\ref\task 6.dll
