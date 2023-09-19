@@ -1,0 +1,20 @@
+[
+  {
+    "RollNumber": 1,
+    "Name": "Alice",
+    "Age": 18,
+    "Grade": "A"
+  },
+  {
+    "RollNumber": 2,
+    "Name": "Bob",
+    "Age": 19,
+    "Grade": "B"
+  },
+  {
+    "RollNumber": 3,
+    "Name": "Charlie",
+    "Age": 20,
+    "Grade": "C"
+  }
+]

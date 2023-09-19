@@ -1,0 +1,17 @@
+C:\Users\HP ELITEBOOK 840 G3\Documents\MY PERSONAL DEVOTION\Csharp\task 7\bin\Debug\net7.0\task 7.exe
+C:\Users\HP ELITEBOOK 840 G3\Documents\MY PERSONAL DEVOTION\Csharp\task 7\bin\Debug\net7.0\task 7.deps.json
+C:\Users\HP ELITEBOOK 840 G3\Documents\MY PERSONAL DEVOTION\Csharp\task 7\bin\Debug\net7.0\task 7.runtimeconfig.json
+C:\Users\HP ELITEBOOK 840 G3\Documents\MY PERSONAL DEVOTION\Csharp\task 7\bin\Debug\net7.0\task 7.dll
+C:\Users\HP ELITEBOOK 840 G3\Documents\MY PERSONAL DEVOTION\Csharp\task 7\bin\Debug\net7.0\task 7.pdb
+C:\Users\HP ELITEBOOK 840 G3\Documents\MY PERSONAL DEVOTION\Csharp\task 7\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\HP ELITEBOOK 840 G3\Documents\MY PERSONAL DEVOTION\Csharp\task 7\obj\Debug\net7.0\task 7.csproj.AssemblyReference.cache
+C:\Users\HP ELITEBOOK 840 G3\Documents\MY PERSONAL DEVOTION\Csharp\task 7\obj\Debug\net7.0\task 7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP ELITEBOOK 840 G3\Documents\MY PERSONAL DEVOTION\Csharp\task 7\obj\Debug\net7.0\task 7.AssemblyInfoInputs.cache
+C:\Users\HP ELITEBOOK 840 G3\Documents\MY PERSONAL DEVOTION\Csharp\task 7\obj\Debug\net7.0\task 7.AssemblyInfo.cs
+C:\Users\HP ELITEBOOK 840 G3\Documents\MY PERSONAL DEVOTION\Csharp\task 7\obj\Debug\net7.0\task 7.csproj.CoreCompileInputs.cache
+C:\Users\HP ELITEBOOK 840 G3\Documents\MY PERSONAL DEVOTION\Csharp\task 7\obj\Debug\net7.0\task 7.csproj.CopyComplete
+C:\Users\HP ELITEBOOK 840 G3\Documents\MY PERSONAL DEVOTION\Csharp\task 7\obj\Debug\net7.0\task 7.dll
+C:\Users\HP ELITEBOOK 840 G3\Documents\MY PERSONAL DEVOTION\Csharp\task 7\obj\Debug\net7.0\refint\task 7.dll
+C:\Users\HP ELITEBOOK 840 G3\Documents\MY PERSONAL DEVOTION\Csharp\task 7\obj\Debug\net7.0\task 7.pdb
+C:\Users\HP ELITEBOOK 840 G3\Documents\MY PERSONAL DEVOTION\Csharp\task 7\obj\Debug\net7.0\task 7.genruntimeconfig.cache
+C:\Users\HP ELITEBOOK 840 G3\Documents\MY PERSONAL DEVOTION\Csharp\task 7\obj\Debug\net7.0\ref\task 7.dll
