@@ -6,9 +6,9 @@
         var studentList = new StudentList<Student>();
 
         // Add some students
-        studentList.AddStudent(new Student(1, "Alice", 18, "A"));
-        studentList.AddStudent(new Student(2, "Bob", 19, "B"));
-        studentList.AddStudent(new Student(3, "Charlie", 20, "C"));
+        studentList.AddStudent(new Student(1, "JohnDman", 23, "A"));
+        studentList.AddStudent(new Student(2, "Jude", 12, "A"));
+        studentList.AddStudent(new Student(3, "Danny", 22, "A"));
 
         // Serialize 
         studentList.SerializeToJson("students.json");
@@ -17,7 +17,7 @@
         studentList.DeserializeFromJson("students.json");
 
         // Search by Name
-        var student = studentList.GetStudentByName("Bob");
+        var student = studentList.GetStudentByName("JohnDman");
         if (student != null)
         {
             Console.WriteLine($"Found student: Roll Number: {student.RollNumber}, Name: {student.Name}, Age: {student.Age}, Grade: {student.Grade}");
@@ -28,7 +28,7 @@
         }
 
         // Search by Id
-        student = studentList.GetStudentById(3);
+        student = studentList.GetStudentById(12);
         if (student != null)
         {
             Console.WriteLine($"Found student: Roll Number: {student.RollNumber}, Name: {student.Name}, Age: {student.Age}, Grade: {student.Grade}");
