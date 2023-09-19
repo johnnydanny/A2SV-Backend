@@ -8,10 +8,10 @@ namespace StudentInformation
 {
     public class Student
     {
-        public string Name { get; set; } = string.Empty;
+        public string Name { get; set; }
         public int Age { get; set; }
         public readonly int RollNumber;
-        public string Grade { get; set; } = string.Empty;
+        public string Grade { get; set; }
 
         public Student(int rollNumber, string name, int age, string grade)
         {
