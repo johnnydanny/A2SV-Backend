@@ -3,7 +3,7 @@ using BLOG_Console_Application.Data;
 using Microsoft.EntityFrameworkCore;
 using System;
 
-var defaultString = "Server=localhost;Port=5432;Database=BlogApp;Username=postgres;Password=Johnson2000";
+var defaultString = "Server=localhost;Port=5432;Database=BlogApp;Username=postgres;Password=putyourpassword";
 
 var options = new DbContextOptionsBuilder<BlogApplicationDbContext>()
     .UseNpgsql(defaultString)
