@@ -61,7 +61,7 @@ namespace BLOG_API.Controllers
             }
             catch (DbUpdateConcurrencyException)
             {
-                if ( (_context.Comments.Any(c => c.CommentId == id) == false) )
+                if ( !_context.Comments.Any(c => c.CommentId == id) )
                 {
                     return NotFound();
                 }
