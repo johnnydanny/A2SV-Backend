@@ -1,0 +1,43 @@
+C:\Users\HP ELITEBOOK 840 G3\Documents\MY PERSONAL DEVOTION\Csharp\task 10 - blog web api\BLOG API\BLOG API\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\HP ELITEBOOK 840 G3\Documents\MY PERSONAL DEVOTION\Csharp\task 10 - blog web api\BLOG API\BLOG API\bin\Debug\net7.0\appsettings.json
+C:\Users\HP ELITEBOOK 840 G3\Documents\MY PERSONAL DEVOTION\Csharp\task 10 - blog web api\BLOG API\BLOG API\bin\Debug\net7.0\BLOG API.exe
+C:\Users\HP ELITEBOOK 840 G3\Documents\MY PERSONAL DEVOTION\Csharp\task 10 - blog web api\BLOG API\BLOG API\bin\Debug\net7.0\BLOG API.deps.json
+C:\Users\HP ELITEBOOK 840 G3\Documents\MY PERSONAL DEVOTION\Csharp\task 10 - blog web api\BLOG API\BLOG API\bin\Debug\net7.0\BLOG API.runtimeconfig.json
+C:\Users\HP ELITEBOOK 840 G3\Documents\MY PERSONAL DEVOTION\Csharp\task 10 - blog web api\BLOG API\BLOG API\bin\Debug\net7.0\BLOG API.dll
+C:\Users\HP ELITEBOOK 840 G3\Documents\MY PERSONAL DEVOTION\Csharp\task 10 - blog web api\BLOG API\BLOG API\bin\Debug\net7.0\BLOG API.pdb
+C:\Users\HP ELITEBOOK 840 G3\Documents\MY PERSONAL DEVOTION\Csharp\task 10 - blog web api\BLOG API\BLOG API\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\HP ELITEBOOK 840 G3\Documents\MY PERSONAL DEVOTION\Csharp\task 10 - blog web api\BLOG API\BLOG API\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\HP ELITEBOOK 840 G3\Documents\MY PERSONAL DEVOTION\Csharp\task 10 - blog web api\BLOG API\BLOG API\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\HP ELITEBOOK 840 G3\Documents\MY PERSONAL DEVOTION\Csharp\task 10 - blog web api\BLOG API\BLOG API\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\HP ELITEBOOK 840 G3\Documents\MY PERSONAL DEVOTION\Csharp\task 10 - blog web api\BLOG API\BLOG API\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\HP ELITEBOOK 840 G3\Documents\MY PERSONAL DEVOTION\Csharp\task 10 - blog web api\BLOG API\BLOG API\obj\Debug\net7.0\BLOG API.csproj.AssemblyReference.cache
+C:\Users\HP ELITEBOOK 840 G3\Documents\MY PERSONAL DEVOTION\Csharp\task 10 - blog web api\BLOG API\BLOG API\obj\Debug\net7.0\BLOG API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP ELITEBOOK 840 G3\Documents\MY PERSONAL DEVOTION\Csharp\task 10 - blog web api\BLOG API\BLOG API\obj\Debug\net7.0\BLOG API.AssemblyInfoInputs.cache
+C:\Users\HP ELITEBOOK 840 G3\Documents\MY PERSONAL DEVOTION\Csharp\task 10 - blog web api\BLOG API\BLOG API\obj\Debug\net7.0\BLOG API.AssemblyInfo.cs
+C:\Users\HP ELITEBOOK 840 G3\Documents\MY PERSONAL DEVOTION\Csharp\task 10 - blog web api\BLOG API\BLOG API\obj\Debug\net7.0\BLOG API.csproj.CoreCompileInputs.cache
+C:\Users\HP ELITEBOOK 840 G3\Documents\MY PERSONAL DEVOTION\Csharp\task 10 - blog web api\BLOG API\BLOG API\obj\Debug\net7.0\BLOG API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\HP ELITEBOOK 840 G3\Documents\MY PERSONAL DEVOTION\Csharp\task 10 - blog web api\BLOG API\BLOG API\obj\Debug\net7.0\BLOG API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\HP ELITEBOOK 840 G3\Documents\MY PERSONAL DEVOTION\Csharp\task 10 - blog web api\BLOG API\BLOG API\obj\Debug\net7.0\staticwebassets\msbuild.BLOG API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\HP ELITEBOOK 840 G3\Documents\MY PERSONAL DEVOTION\Csharp\task 10 - blog web api\BLOG API\BLOG API\obj\Debug\net7.0\staticwebassets\msbuild.build.BLOG API.props
+C:\Users\HP ELITEBOOK 840 G3\Documents\MY PERSONAL DEVOTION\Csharp\task 10 - blog web api\BLOG API\BLOG API\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.BLOG API.props
+C:\Users\HP ELITEBOOK 840 G3\Documents\MY PERSONAL DEVOTION\Csharp\task 10 - blog web api\BLOG API\BLOG API\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.BLOG API.props
+C:\Users\HP ELITEBOOK 840 G3\Documents\MY PERSONAL DEVOTION\Csharp\task 10 - blog web api\BLOG API\BLOG API\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\HP ELITEBOOK 840 G3\Documents\MY PERSONAL DEVOTION\Csharp\task 10 - blog web api\BLOG API\BLOG API\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\HP ELITEBOOK 840 G3\Documents\MY PERSONAL DEVOTION\Csharp\task 10 - blog web api\BLOG API\BLOG API\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\HP ELITEBOOK 840 G3\Documents\MY PERSONAL DEVOTION\Csharp\task 10 - blog web api\BLOG API\BLOG API\obj\Debug\net7.0\scopedcss\bundle\BLOG API.styles.css
+C:\Users\HP ELITEBOOK 840 G3\Documents\MY PERSONAL DEVOTION\Csharp\task 10 - blog web api\BLOG API\BLOG API\obj\Debug\net7.0\BLOG API.csproj.CopyComplete
+C:\Users\HP ELITEBOOK 840 G3\Documents\MY PERSONAL DEVOTION\Csharp\task 10 - blog web api\BLOG API\BLOG API\obj\Debug\net7.0\BLOG API.dll
+C:\Users\HP ELITEBOOK 840 G3\Documents\MY PERSONAL DEVOTION\Csharp\task 10 - blog web api\BLOG API\BLOG API\obj\Debug\net7.0\refint\BLOG API.dll
+C:\Users\HP ELITEBOOK 840 G3\Documents\MY PERSONAL DEVOTION\Csharp\task 10 - blog web api\BLOG API\BLOG API\obj\Debug\net7.0\BLOG API.pdb
+C:\Users\HP ELITEBOOK 840 G3\Documents\MY PERSONAL DEVOTION\Csharp\task 10 - blog web api\BLOG API\BLOG API\obj\Debug\net7.0\BLOG API.genruntimeconfig.cache
+C:\Users\HP ELITEBOOK 840 G3\Documents\MY PERSONAL DEVOTION\Csharp\task 10 - blog web api\BLOG API\BLOG API\obj\Debug\net7.0\ref\BLOG API.dll
+C:\Users\HP ELITEBOOK 840 G3\Documents\MY PERSONAL DEVOTION\Csharp\task 10 - blog web api\BLOG API\BLOG API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\HP ELITEBOOK 840 G3\Documents\MY PERSONAL DEVOTION\Csharp\task 10 - blog web api\BLOG API\BLOG API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\HP ELITEBOOK 840 G3\Documents\MY PERSONAL DEVOTION\Csharp\task 10 - blog web api\BLOG API\BLOG API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\HP ELITEBOOK 840 G3\Documents\MY PERSONAL DEVOTION\Csharp\task 10 - blog web api\BLOG API\BLOG API\bin\Debug\net7.0\Npgsql.dll
+C:\Users\HP ELITEBOOK 840 G3\Documents\MY PERSONAL DEVOTION\Csharp\task 10 - blog web api\BLOG API\BLOG API\bin\Debug\net7.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\HP ELITEBOOK 840 G3\Documents\MY PERSONAL DEVOTION\Csharp\task 10 - blog web api\BLOG API\BLOG API\bin\Debug\net7.0\Humanizer.dll
+C:\Users\HP ELITEBOOK 840 G3\Documents\MY PERSONAL DEVOTION\Csharp\task 10 - blog web api\BLOG API\BLOG API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\HP ELITEBOOK 840 G3\Documents\MY PERSONAL DEVOTION\Csharp\task 10 - blog web api\BLOG API\BLOG API\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\HP ELITEBOOK 840 G3\Documents\MY PERSONAL DEVOTION\Csharp\task 10 - blog web api\BLOG API\BLOG API\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\HP ELITEBOOK 840 G3\Documents\MY PERSONAL DEVOTION\Csharp\task 10 - blog web api\BLOG API\BLOG API\bin\Debug\net7.0\System.CodeDom.dll
