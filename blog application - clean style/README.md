@@ -6,6 +6,7 @@
 Clean Architecture is an architectural pattern utilized in software engineering essentially for the purpose of separting concerns and dependencies. It is also known as Onion architecture.
 
 This README provides a summary of my understanding of clean architrecture.
+![image](https://github.com/johnnydanny/A2SV-Backend/assets/136840072/f186f136-1857-4a21-8100-e2889d20ec9b)
 
 ## Key Principles
 
