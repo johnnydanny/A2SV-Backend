@@ -6,7 +6,6 @@
 Clean Architecture is an architectural pattern utilized in software engineering essentially for the purpose of separting concerns and dependencies. It is also known as Onion architecture.
 
 This README provides a summary of my understanding of clean architrecture.
-![image](https://github.com/johnnydanny/A2SV-Backend/assets/136840072/f186f136-1857-4a21-8100-e2889d20ec9b)
 
 ## Key Principles
 
@@ -27,6 +26,8 @@ Clean Architecture typically consists of the following core components or layers
 1. **Entities**: Entities represent the core business objects or concepts. They are usually simple, domain-specific classes that encapsulate business rules and data.
 
 2. **Interfaces**: Interfaces define the contract for interacting with external systems, such as databases, web services, or user interfaces. They abstract the details of these systems, making it easy to swap them out or test the application in isolation.
+
+![image](https://github.com/johnnydanny/A2SV-Backend/assets/136840072/f186f136-1857-4a21-8100-e2889d20ec9b)
 
 
 ## Pros
