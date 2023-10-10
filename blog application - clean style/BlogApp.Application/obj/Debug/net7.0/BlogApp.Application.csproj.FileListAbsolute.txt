@@ -1,0 +1,15 @@
+C:\Users\HP ELITEBOOK 840 G3\Documents\MY PERSONAL DEVOTION\Csharp\blog application - clean style\BlogApp.Application\bin\Debug\net7.0\BlogApp.Application.deps.json
+C:\Users\HP ELITEBOOK 840 G3\Documents\MY PERSONAL DEVOTION\Csharp\blog application - clean style\BlogApp.Application\bin\Debug\net7.0\BlogApp.Application.dll
+C:\Users\HP ELITEBOOK 840 G3\Documents\MY PERSONAL DEVOTION\Csharp\blog application - clean style\BlogApp.Application\bin\Debug\net7.0\BlogApp.Application.pdb
+C:\Users\HP ELITEBOOK 840 G3\Documents\MY PERSONAL DEVOTION\Csharp\blog application - clean style\BlogApp.Application\obj\Debug\net7.0\BlogApp.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP ELITEBOOK 840 G3\Documents\MY PERSONAL DEVOTION\Csharp\blog application - clean style\BlogApp.Application\obj\Debug\net7.0\BlogApp.Application.AssemblyInfoInputs.cache
+C:\Users\HP ELITEBOOK 840 G3\Documents\MY PERSONAL DEVOTION\Csharp\blog application - clean style\BlogApp.Application\obj\Debug\net7.0\BlogApp.Application.AssemblyInfo.cs
+C:\Users\HP ELITEBOOK 840 G3\Documents\MY PERSONAL DEVOTION\Csharp\blog application - clean style\BlogApp.Application\obj\Debug\net7.0\BlogApp.Application.csproj.CoreCompileInputs.cache
+C:\Users\HP ELITEBOOK 840 G3\Documents\MY PERSONAL DEVOTION\Csharp\blog application - clean style\BlogApp.Application\obj\Debug\net7.0\BlogApp.Application.dll
+C:\Users\HP ELITEBOOK 840 G3\Documents\MY PERSONAL DEVOTION\Csharp\blog application - clean style\BlogApp.Application\obj\Debug\net7.0\refint\BlogApp.Application.dll
+C:\Users\HP ELITEBOOK 840 G3\Documents\MY PERSONAL DEVOTION\Csharp\blog application - clean style\BlogApp.Application\obj\Debug\net7.0\BlogApp.Application.pdb
+C:\Users\HP ELITEBOOK 840 G3\Documents\MY PERSONAL DEVOTION\Csharp\blog application - clean style\BlogApp.Application\obj\Debug\net7.0\ref\BlogApp.Application.dll
+C:\Users\HP ELITEBOOK 840 G3\Documents\MY PERSONAL DEVOTION\Csharp\blog application - clean style\BlogApp.Application\bin\Debug\net7.0\BlogApp.Domain.dll
+C:\Users\HP ELITEBOOK 840 G3\Documents\MY PERSONAL DEVOTION\Csharp\blog application - clean style\BlogApp.Application\bin\Debug\net7.0\BlogApp.Domain.pdb
+C:\Users\HP ELITEBOOK 840 G3\Documents\MY PERSONAL DEVOTION\Csharp\blog application - clean style\BlogApp.Application\obj\Debug\net7.0\BlogApp.Application.csproj.AssemblyReference.cache
+C:\Users\HP ELITEBOOK 840 G3\Documents\MY PERSONAL DEVOTION\Csharp\blog application - clean style\BlogApp.Application\obj\Debug\net7.0\BlogApp.Application.csproj.CopyComplete
