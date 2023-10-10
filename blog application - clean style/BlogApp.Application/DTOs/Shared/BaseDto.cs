@@ -6,7 +6,8 @@ using System.Threading.Tasks;
 
 namespace BlogApp.Application.DTOs.Shared
 {
-    internal class BaseDto
+    public abstract class BaseDto
     {
+        public int Id { get; init; }
     }
 }

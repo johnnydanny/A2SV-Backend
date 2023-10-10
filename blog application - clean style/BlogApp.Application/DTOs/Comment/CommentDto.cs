@@ -1,4 +1,5 @@
-﻿using System;
+﻿using BlogApp.Application.DTOs.Shared;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -6,7 +7,10 @@ using System.Threading.Tasks;
 
 namespace BlogApp.Application.DTOs.Comment
 {
-    internal class CommentDto
+    public class CommentDto : BaseDto
     {
+        public required string Text { get; set; }
+
+        public required int PostId { get; set; }
     }
 }
