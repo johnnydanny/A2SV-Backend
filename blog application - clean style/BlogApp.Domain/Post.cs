@@ -8,6 +8,6 @@ namespace BlogApp.Domain
 
         public required string Content { get; set; }
 
-      //  public virtual ICollection<Comment> Comments { get; set; } = new List<Comment>();     // a post can have multiple comments
+        public virtual ICollection<Comment> Comments { get; set; } = new List<Comment>();     // a post can have multiple comments
     }
 }
