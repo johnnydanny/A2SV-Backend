@@ -15,7 +15,10 @@ namespace BlogApp.Application.Profiles
         public MapperConfig()
         {
             CreateMap<Post, PostDto>().ReverseMap();
-            CreateMap<Comment, CommentDto>().ReverseMap();
+           // CreateMap<Comment, CommentDto>().ReverseMap();
+            CreateMap<Post, CreatePostDto>().ReverseMap();
+            CreateMap<Post, UpdatePostDto>().ReverseMap();
+            CreateMap<Post, ListPostDto>().ReverseMap();
         }
         
     }

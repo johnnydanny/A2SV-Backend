@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace BlogApp.Application.DTOs.Comment
 {
-    public class CommentDto : BaseDto
+    public class CommentDto // skip 
     {
         public required string Text { get; set; }
 

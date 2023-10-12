@@ -7,9 +7,8 @@ using System.Threading.Tasks;
 
 namespace BlogApp.Application.DTOs.Post
 {
-    public class PostDto : BaseDto
+    public class ListPostDto : BaseDto
     {
         public int Id { get; init; }
-        public DateTime CreatedAt { get; set; }
     }
 }

@@ -8,6 +8,7 @@ namespace BlogApp.Application.DTOs.Shared
 {
     public abstract class BaseDto
     {
-        public int Id { get; init; }
+        public required string Title { get; set; }
+        public required string Content { get; set; }
     }
 }
